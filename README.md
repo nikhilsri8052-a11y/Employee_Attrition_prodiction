@@ -1,2 +1,0 @@
-# Employee_Attrition_prodiction
-Logistic regression-ML model
